@@ -13,7 +13,6 @@
 
 ```
 npm install
-npm run build  ... build the MCP server
 npm run start  ... start MCP inspector
 ```
 
